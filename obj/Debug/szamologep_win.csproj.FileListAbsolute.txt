@@ -1,0 +1,10 @@
+C:\Users\laszl\source\repos\szamologep_win\bin\Debug\szamologep_win.exe.config
+C:\Users\laszl\source\repos\szamologep_win\bin\Debug\szamologep_win.exe
+C:\Users\laszl\source\repos\szamologep_win\bin\Debug\szamologep_win.pdb
+C:\Users\laszl\source\repos\szamologep_win\obj\Debug\szamologep_win.csprojAssemblyReference.cache
+C:\Users\laszl\source\repos\szamologep_win\obj\Debug\szamologep_win.Properties.Resources.resources
+C:\Users\laszl\source\repos\szamologep_win\obj\Debug\szamologep_win.csproj.GenerateResource.cache
+C:\Users\laszl\source\repos\szamologep_win\obj\Debug\szamologep_win.csproj.CoreCompileInputs.cache
+C:\Users\laszl\source\repos\szamologep_win\obj\Debug\szamologep_win.exe
+C:\Users\laszl\source\repos\szamologep_win\obj\Debug\szamologep_win.pdb
+C:\Users\laszl\source\repos\szamologep_win\obj\Debug\szamologep_win.Szamologep.resources
